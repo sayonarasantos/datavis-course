@@ -1,6 +1,6 @@
 ## Aula do dia 02/09/2019
 
-[index01.html](basic/index01.html)<br>
+[index01.html](d3_intro/notebook.html)<br>
 [index02.html](basic/index02.html)<br>
 [index03.html](basic/index03.html)<br>
 [index04.html](basic/index04.html)<br>
