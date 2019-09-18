@@ -1,7 +1,11 @@
-## Aula do dia 09/09/2019
+## Aula do dia 16/09/2019
+[Introdução ao D3, updates e transições](d3_update/scatterplot.html)<br>
 
-[D3 - Scale](d3_scale/scatterplot.html)<br>
-[D3 - Intro](d3_intro/notebook.html)<br>
+## Aula do dia 11/09/2019
+[Introdução ao D3 , escalas e eixos](d3_scale/scatterplot.html)<br>
+
+## Aula do dia 04/09/2019
+[Introdução ao D3 com observable](d3_intro/notebook.html)<br>
 
 
 ---
