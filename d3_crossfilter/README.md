@@ -1,6 +1,6 @@
 # D3 com Crossfilter e DC.js
 
-https://observablehq.com/@sayonarasantos/d3-com-crossfilter-e-dc-js@401
+https://observablehq.com/@sayonarasantos/d3-com-crossfilter-e-dc-js@426
 
 View this notebook in your browser by running a web server in this folder. For
 example:

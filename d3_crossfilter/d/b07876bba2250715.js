@@ -1,4 +1,4 @@
-// https://observablehq.com/@sayonarasantos/d3-com-crossfilter-e-dc-js@401
+// https://observablehq.com/@sayonarasantos/d3-com-crossfilter-e-dc-js@426
 export default function define(runtime, observer) {
   const main = runtime.module();
   main.variable(observer()).define(["md"], function(md){return(
@@ -426,22 +426,25 @@ facts2.dimension(d => d.Genre)
   main.variable(observer("wGrossByGenre")).define("wGrossByGenre", ["genreDim"], function(genreDim){return(
 genreDim.group().reduceSum(d => d.Worldwide_Gross_M)
 )});
-  main.variable(observer("by_year")).define("by_year", ["md","container","dc","d3","yearDim","wGrossByYear"], function(md,container,dc,d3,yearDim,wGrossByYear)
+  main.variable(observer("by_year")).define("by_year", ["md","container","dc","yearDim","d3","wGrossByYear"], function(md,container,dc,yearDim,d3,wGrossByYear)
 {
   let view = md`${container('chart4', 'Bilheteria por ano')}`
   let barChart = dc.barChart(view.querySelector("#chart4"))
-  let xScale = d3.scaleBand();
-            
+  // let xScale = d3.scaleBand()
+                 // .domain(yearDim)
+          
   barChart.width(800)
               .height(400)
               .margins({top: 50, right: 50, bottom: 25, left: 40})
               .dimension(yearDim)
-              .x(xScale)
+              .x(d3.scaleBand())
               .xUnits(dc.units.ordinal)
+              .barPadding(0.3)
+              .outerPadding(0.1)
               .renderHorizontalGridLines(true)
               // .legend(dc.legend().x(700).y(5).itemHeight(13).gap(5))
-              .brushOn(false)    
-              .group(wGrossByYear, 'Milhões de dólares')
+              .brushOn(false)  //?  
+              .group(wGrossByYear)
               .ordinalColors(['steelblue']),
   dc.renderAll()
   return view      
@@ -457,8 +460,10 @@ genreDim.group().reduceSum(d => d.Worldwide_Gross_M)
               .height(400)
               .margins({top: 50, right: 50, bottom: 25, left: 40})
               .dimension(genreDim)
-              .x(xScale)
+              .x(d3.scaleBand())
               .xUnits(dc.units.ordinal)
+              .barPadding(0.3)
+              .outerPadding(0.1)
               .renderHorizontalGridLines(true)
               // .legend(dc.legend().x(700).y(5).itemHeight(13).gap(5))
               .brushOn(false)    
