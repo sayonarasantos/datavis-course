@@ -1,0 +1,14 @@
+{
+  "name": "@sayonarasantos/d3-com-crossfilter-e-dc-js-parte-2",
+  "main": "@sayonarasantos/d3-com-crossfilter-e-dc-js-parte-2.js",
+  "version": "176.0.0",
+  "homepage": "https://observablehq.com/@sayonarasantos/d3-com-crossfilter-e-dc-js-parte-2",
+  "author": {
+    "name": "Sayonara",
+    "url": "https://observablehq.com/@sayonarasantos"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
