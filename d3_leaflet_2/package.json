@@ -1,0 +1,14 @@
+{
+  "name": "@sayonarasantos/visualizando-crimes-de-chicago-2",
+  "main": "d/8126e3f29dc7c9df.js",
+  "version": "469.0.0",
+  "homepage": "https://observablehq.com/@sayonarasantos/visualizando-crimes-de-chicago-2",
+  "author": {
+    "name": "Sayonara",
+    "url": "https://observablehq.com/@sayonarasantos"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

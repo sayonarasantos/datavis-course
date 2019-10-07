@@ -1,4 +1,6 @@
 ## Aula do dia 30/09/2019
+[Visualização de Crimes em Chicago](d3_leaflet_2/index.html)<br>
+
 [D3 com Crossfilter e DC.js e Leaflet](d3_leaflet/index.html)<br>
 
 ## Aula do dia 25/09/2019
