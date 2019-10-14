@@ -1,0 +1,14 @@
+{
+  "name": "@sayonarasantos/similar-song-network",
+  "main": "d/814441bbd51ded66.js",
+  "version": "84.0.0",
+  "homepage": "https://observablehq.com/@sayonarasantos/similar-song-network",
+  "author": {
+    "name": "Sayonara",
+    "url": "https://observablehq.com/@sayonarasantos"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

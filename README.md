@@ -1,3 +1,6 @@
+## Aula do dia 09/10/2019
+[Similar Song Network](d3_network/index.html)<br>
+
 ## Aula do dia 30/09/2019
 [Visualização de Crimes em Chicago](d3_leaflet_2/index.html)<br>
 
