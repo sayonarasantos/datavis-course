@@ -1,0 +1,14 @@
+{
+  "name": "@sayonarasantos/les-miserables",
+  "main": "d/e466f7b3d0835e0e.js",
+  "version": "177.0.0",
+  "homepage": "https://observablehq.com/@sayonarasantos/les-miserables",
+  "author": {
+    "name": "Sayonara",
+    "url": "https://observablehq.com/@sayonarasantos"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
