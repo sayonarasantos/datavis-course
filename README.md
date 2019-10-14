@@ -1,5 +1,5 @@
 ## Aula do dia 09/10/2019
-[Les Miserables](d3_network__2/index.html)<br>
+[Les Miserables](d3_network_2/index.html)<br>
 
 ## Aula do dia 09/10/2019
 [Similar Song Network](d3_network/index.html)<br>
