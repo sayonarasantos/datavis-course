@@ -1,4 +1,4 @@
-// https://observablehq.com/@sayonarasantos/homicidios-em-fortaleza-em-2012@205
+// https://observablehq.com/@sayonarasantos/homicidios-em-fortaleza-em-2012@206
 export default function define(runtime, observer) {
   const main = runtime.module();
   main.variable(observer()).define(["md"], function(md){return(
@@ -115,7 +115,7 @@ function container() {
 }
 )});
   main.variable(observer("blues")).define("blues", ["d3"], function(d3){return(
-d3.schemeBlues[7]
+d3.schemeReds[7]
 )});
   main.variable(observer("colorScale")).define("colorScale", ["d3","blues"], function(d3,blues){return(
 d3.scaleQuantize()
