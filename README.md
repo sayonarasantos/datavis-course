@@ -1,4 +1,4 @@
-## Aula do dia 09/10/2019
+## Aula do dia 16/10/2019
 [Taxa de desemprego nos EUA](d3_color/index.html)<br>
 
 ## Aula do dia 09/10/2019
