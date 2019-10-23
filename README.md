@@ -1,7 +1,9 @@
 ## Aula do dia 09/10/2019
-[Les Miserables](d3_network_2/index.html)<br>
+[Taxa de desemprego nos EUA](d3_color/index.html)<br>
 
 ## Aula do dia 09/10/2019
+[Les Miserables](d3_network_2/index.html)<br>
+
 [Similar Song Network](d3_network/index.html)<br>
 
 ## Aula do dia 30/09/2019
