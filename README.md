@@ -1,3 +1,6 @@
+## Aula do dia 23/10/2019
+[Taxa de desemprego nos EUA (Parte 2)](d3_interactive/index.html)<br>
+
 ## Aula do dia 16/10/2019
 [Homicídios em Fortaleza](d3_color_2/index.html)<br>
 

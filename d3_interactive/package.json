@@ -1,0 +1,14 @@
+{
+  "name": "@sayonarasantos/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "main": "0da8595c89bfd165@99.js",
+  "version": "99.0.0",
+  "homepage": "https://observablehq.com/@sayonarasantos/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "author": {
+    "name": "Sayonara",
+    "url": "https://observablehq.com/@sayonarasantos"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
