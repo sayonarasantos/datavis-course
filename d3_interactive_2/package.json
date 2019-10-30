@@ -1,0 +1,14 @@
+{
+  "name": "@sayonarasantos/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "main": "d7d1f74c664066c5@103.js",
+  "version": "103.0.0",
+  "homepage": "https://observablehq.com/@sayonarasantos/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "author": {
+    "name": "Sayonara",
+    "url": "https://observablehq.com/@sayonarasantos"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

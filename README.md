@@ -1,4 +1,6 @@
 ## Aula do dia 23/10/2019
+[D3 com Crossfilter, DC.js e Leaflet (Parte 2)](d3_interactive_2/index.html)<br>
+
 [Taxa de desemprego nos EUA (Parte 2)](d3_interactive/index.html)<br>
 
 ## Aula do dia 16/10/2019
