@@ -1,3 +1,12 @@
+# Atividades da cadeira de Visualização de Dados
+
+- Observable:
+[Meus notebooks](https://observablehq.com/@sayonarasantos)<br>
+- Site:
+[Sayonara Santos, Datavis-course](https://sayonarasantos.github.io/datavis-course)<br>
+
+---
+
 ## Aula do dia 23/10/2019
 [D3 com Crossfilter, DC.js e Leaflet (Parte 2)](d3_interactive_2/index.html)<br>
 
